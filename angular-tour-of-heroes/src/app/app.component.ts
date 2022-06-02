@@ -8,3 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Tour of Heroes';
 }
+
+
+//The component class code, written in TypeScript.
